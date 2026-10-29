@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# HessianTrace: regenerable experiment artifacts (rerun scripts/run_experiment.py)
+results/*.pkl
+results/*.csv
